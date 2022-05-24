@@ -91,6 +91,7 @@ class _ListagemState extends State<Listagem> {
                           },
                           icon: Icon(Icons.edit),
                           color: Color.fromARGB(129, 62, 141, 161),
+
                         ),
                         IconButton(
                           onPressed: () {
