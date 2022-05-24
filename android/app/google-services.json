@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157932453143",
+    "project_id": "apptombamento",
+    "storage_bucket": "apptombamento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157932453143:android:c6d6b28468424d44370b52",
+        "android_client_info": {
+          "package_name": "br.com.danielySobral.tombamento_app.projetotomb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157932453143-d1k9mflk9gftcch0fchhqhrvn0ugtp59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElttmpwpshLAdeja1DaRvy7gMJLfmyYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157932453143-d1k9mflk9gftcch0fchhqhrvn0ugtp59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
